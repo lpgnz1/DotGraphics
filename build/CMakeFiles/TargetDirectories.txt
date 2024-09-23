@@ -1,0 +1,3 @@
+C:/Users/User/coding/DotGraphics/DotGraphics/build/CMakeFiles/DotGraphics.dir
+C:/Users/User/coding/DotGraphics/DotGraphics/build/CMakeFiles/edit_cache.dir
+C:/Users/User/coding/DotGraphics/DotGraphics/build/CMakeFiles/rebuild_cache.dir
